@@ -1,3 +1,9 @@
-# Chatting-App
-In this project I have build a full-fledged Firebase Chat Application. With social authentication including Google and Facebook using Firebase, online statuses, great design, and functionality, image support, sound notifications, the ability to create multiple rooms, and much more.
-I have taken the help of this youtube video to make this app. https://www.youtube.com/watch?v=Bv9Js3QLOLY
+# Unichat Application
+
+![Chat Application](https://i.ibb.co/GJwyy9m/Bv9-Js3-QLOLY-HD.jpg)
+
+## Introduction
+This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application
+
+### Bonus - E-mail notifications
+If you want to upgrade this chat application even further than what is shown in the video, you can add e-mail notifications. More info on https://chatengine.io/docs/email_notifications.
